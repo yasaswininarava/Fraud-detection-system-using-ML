@@ -129,8 +129,3 @@ The notebook evaluates the model using a classification report and confusion mat
 
 This is an educational project. Predictions can include false positives and false negatives and should not be treated as confirmed fraud decisions.
 
-## Acknowledgment
-
-Developed while following a fraud detection tutorial, with hands-on implementation of the analysis, model pipeline, and Streamlit interface.
-
-[Tutorial video](https://youtu.be/4Od5_z28iIE)
